@@ -1,5 +1,5 @@
 
 #!/bin/sh
-echo "Hello world"
+echo "Hello e world"
 echo " above is the simple program "
 echo "exit"
